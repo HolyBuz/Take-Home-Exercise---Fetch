@@ -81,6 +81,7 @@
 		98EED5732C9957820066B296 /* Take Home Exercise - FetchUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Take Home Exercise - FetchUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		98EED5772C9957820066B296 /* Take_Home_Exercise___FetchUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Take_Home_Exercise___FetchUITests.swift"; sourceTree = "<group>"; };
 		98EED5792C9957820066B296 /* Take_Home_Exercise___FetchUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Take_Home_Exercise___FetchUITestsLaunchTests.swift"; sourceTree = "<group>"; };
+		98FA15302C9A56BE0030CA11 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -244,6 +245,7 @@
 		98EED55A2C99577E0066B296 /* Take Home Exercise - Fetch */ = {
 			isa = PBXGroup;
 			children = (
+				98FA15302C9A56BE0030CA11 /* README.md */,
 				98BD2AED2C9A00A000F1E59E /* Network */,
 				98BD2AEB2C9A008F00F1E59E /* Dessert Section */,
 				98EED55B2C99577E0066B296 /* Take_Home_Exercise___FetchApp.swift */,

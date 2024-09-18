@@ -10,7 +10,7 @@ protocol DessertViewModelFactory {
     func makeDessertDetailViewModel(for dessert: Meal) -> DessertDetailViewModel
 }
 
-class DefaultDessertViewModelFactory: DessertViewModelFactory {
+final class DefaultDessertViewModelFactory: DessertViewModelFactory {
     
     private let service: DessertListServiceable & DessertDetailServiceable
     
