@@ -246,6 +246,7 @@
 		98EED55A2C99577E0066B296 /* Take Home Exercise - Fetch */ = {
 			isa = PBXGroup;
 			children = (
+				98FA15302C9A56BE0030CA11 /* README.md */,
 				98BD2AED2C9A00A000F1E59E /* Network */,
 				98BD2AEB2C9A008F00F1E59E /* Dessert Section */,
 				98EED55B2C99577E0066B296 /* Take_Home_Exercise___FetchApp.swift */,
